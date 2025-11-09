@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.0.0",
+  "platforms": {
+    "win_amd64": {
+      "download_url": "https://github.com/TomNek/PowerBi_Report_Processor/releases/download/Prerelease/powerbi_doc_gui.exe",
+      "sha256": "ad3abb48e68ab8bc98d943d940865acff5bfecefe8e77d4bc9f3d69e1a909826"
+    }
+  }
+}
